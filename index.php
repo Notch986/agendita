@@ -13,7 +13,13 @@
 </head>
 
 <body>
-    <h1>Diego HUnaaco</h1>
+    <div class="container">
+        <?php
+       
+       require_once "menu.php";
+       ?>
+    </div>
+
 </body>
 
 </html>
