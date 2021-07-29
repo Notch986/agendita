@@ -18,11 +18,15 @@
        
        require_once "menu.php";
        ?>
-    </div>
-    <h1>LUIS GUILLERMO</h1>
-    <p>Asi no es
+        <div class="jumbotron">
+            <h1 class="display-4">Categorías</h1>
+            <button class="btn btn-light"><span class="fas fa-plus"></span> Agregar Categoría</button>
+            <hr class="my-4">
 
-    </p>
+        </div>
+
+    </div>
+
 </body>
 
 </html>

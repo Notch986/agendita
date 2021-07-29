@@ -18,6 +18,12 @@
        
        require_once "menu.php";
        ?>
+        <div class="jumbotron">
+            <h1 class="display-4">Contactos</h1>
+            <button class="btn btn-light"><span class="fas fa-plus"></span> Agregar Contacto</button>
+            <hr class="my-4">
+
+        </div>
     </div>
 
 </body>
